@@ -3,4 +3,4 @@ def factorial(n):
 
 num = 10
 print ("Factorial of", num, "is", factorial(num))
-Factorial of 10 is 3628800
+# Factorial of 10 is 3628800

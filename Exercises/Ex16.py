@@ -9,5 +9,4 @@ def isPrime(h):
 		else:
 			test = True
 			print(f"{test}ly, the number {h} is a prime!")
-			break
->>> isPrime(input("Enter a number.\n"))
+isPrime(input("Enter a number.\n"))
